@@ -1,0 +1,75 @@
+#logo{display:inline;
+margin:0;}
+#carouselExampleIndicators{
+    size: 100px 100px;
+}
+h5{margin-left:50%;
+font-style: italic;
+color:white;}
+body{background-image: url(images/highres3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;}
+
+
+
+hr{background-color: black;
+width:3px;}
+p{font-style: italic;
+color:white;
+font-size: larger;}
+#bottom{background-color: rgb(255, 255, 255);
+background-image: url(images/highres6.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;}
+
+.bg-body-tertiary{background-color: rgb(255, 255, 255);
+    background-image: url(images/highres6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: larger;
+   
+
+}
+
+img{width:400px;
+
+display:inline;}
+
+.common{font-size: large;
+}
+
+
+h1{  color: aqua;
+
+}
+
+#carouselExample{width: 900px;
+margin-left: 300px;}
+
+#homepara{
+margin-right:100px;
+margin-left: 100px;
+font-size:larger;
+}
+#linko{
+margin-right: 50px;
+margin-left:70px;
+font-size:xx-large;
+    
+}
+#linko1{ 
+margin-right: 50px;
+font-size:xx-large;
+margin-left:50px;}
+    
+
+.co{color:white;}
+
+    
+.col{color:white;}
+
+.accordion{margin-bottom:100px;}
+   
